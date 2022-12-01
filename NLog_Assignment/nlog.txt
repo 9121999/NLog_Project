@@ -1,0 +1,5 @@
+﻿2022-12-01 15:37:24.2282|Debug|Debug Successfull : Sum() | 
+2022-12-01 15:37:24.2542|Error|Expecting null values | 
+2022-12-01 15:37:24.2542|Warn|secondNumber or firstNumber should not equal to 0 | 
+2022-12-01 15:37:24.2542|Debug|Debug Successfull : Sum() | 
+2022-12-01 15:37:24.2542|Info|Sum Method passed, Result: 1 | 
